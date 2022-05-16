@@ -1,0 +1,88 @@
+{
+  "books": [
+    {
+      "bookName": "Anthony John Soprano",
+      "bookAuthor": "Played by James Gandolfini",
+      "bookImage": "https://media1.giphy.com/media/pOeaTGiDBZgYM/giphy.gif",
+      "bookPrice": "Boss",
+      "id": 1
+    },
+    {
+      "bookName": "Corrado John \"Junior\" Soprano Jr.",
+      "bookAuthor": "Played by Dominic Chianese",
+      "bookImage": "https://c.tenor.com/26Ob3tVsDPQAAAAC/yes-corrado-john-junior-soprano.gif",
+      "bookPrice": "Official boss of the DiMeo crime family",
+      "id": 2
+    },
+    {
+      "bookName": "Jennifer Melfi",
+      "bookAuthor": "Played by Lorraine Bracco",
+      "bookImage": "http://31.media.tumblr.com/c94ad75cac1ef890c5a37f9d128d3318/tumblr_mt5getWfk61srraano1_r1_250.gif",
+      "bookPrice": "The psychiatrist",
+      "id": 3
+    },
+    {
+      "bookName": "Christopher Moltisanti ",
+      "bookAuthor": "Played by Michael Imperioli",
+      "bookImage": "https://i.gifer.com/origin/95/952e9e5d546f318551467807f6dd3d5e_w200.gif",
+      "bookPrice": "Member of the DiMeo crime family",
+      "id": 4
+    },
+    {
+      "bookName": "Salvatore \"Big Pussy\" Bonpensiero",
+      "bookAuthor": "Played by Vincent Pastore",
+      "bookImage": "https://i.gifer.com/origin/9b/9bd0ba5953ecd1b30c6e6a793e03af55_w200.gif",
+      "bookPrice": "Mobster of the Dimeo family",
+      "id": 5
+    },
+    {
+      "bookName": "Silvio Manfred Dante",
+      "bookAuthor": "Played by Steven Van Zandt",
+      "bookImage": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgVFRUYGBgaGhgYGhoaGBoYGhoaGBgZGhgcGBkcIS4lHB4rIRoZJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QGhISHjQhISE0MTQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0MTQ0NDQ0MTQ0NDQ0NP/AABEIARIAuAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAEAQIDBQYAB//EAD0QAAEDAgMFBgUCBQMEAwAAAAEAAhEDIQQSMQVBUWFxBiKBkaHwEzKxwdFS4QcUQmLxI7LCcnOCkhUzNP/EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EACARAQEBAQADAQEBAAMAAAAAAAABAhEDITESUUETIrH/2gAMAwEAAhEDEQA/AGSrLB7Ua3uuKqyULiaYkEqb8bfG0ZWzCQn5lS7JxrS0NBVrnUyribMlUbXJ+ZAStIUghDB4T8yC4msmPpgpoXZkDgN7cqex4OinewEXQNWmW3anNFYMaEj6YKFbX4p4xCog2I2dNwoauyQ4X1Vh/MJprFL2ORQnYUG6ZU2Q3dZaA1kHWdO6Edo5GcxGznN5oNzY1C1lOiQb3Cg2lgmuHdF1H/JqXlg/Ms9MxCSEe/BFuspnwmraXqOAiEqLLWBcqCwFJ3BQ4mi8iIV6KJCd8Mrn/VrW5ZPDUqrHd1tlrsC5xYM2q7LyCc0lKCZ4KXBQtentempK1qeEjHpMyAdnUb8RCVz0NXxTAcrnNBtEkCeiRJ2YiVJmQVPFMktD2SNRIt14IqnUDrggjldAQYgcAgTiHAxlKuZCQgcAn3hXPQFKoTuUkHgjIHBNcQj9D8AweSQ9EXmHBCVXOm2if6HDDV3QnX4Joo3kotsQldCZU+MB/Sqisxu+y1xc3fCCxWEpv1hT3l9C5rK5Z0XK7/8AjAwy24XKv+S/xP5W5aU0Snuemh6TUsJwaklKXoDgxKGprHgqLHbQZRYX1HBrRvPE6AcSgk9SoGtLnGAASSdwGqym1O1tJoIY8uMWjjzWN7Tdpn4h7g1zm0rBrNAY3uHW/JZ/PKuZZ3X8auv2mqOIdnIi0g38VXP2g9xuSTqJM8yqYP4oyk4WO7f78vNF9CXqatWfrJ/zv81a7H2k9jszdR6jWFTvrCIPuB/hEU6jSTBtDfOTPol1XHo+z+1tJ8NeCx1heMvWdy0DagIkEEHQhePvpnXgT5SQtH2a2waRFOo45CYBP9Jm3gps/hyvQA5IUOx6e2opWe5qgfmU2dQvupojspTDQcf6lO1cAgUI7BOP9SRmBI1cjSYStcmXEP8AL21SqUlImERYmtap3hNITM0hLCc0LoQTmsheY/xD2sH1RQY6W0/m4ZiLjnA+pXpG1cQadCpUbqym9w6gEj1Xg9aoXOJJkkkk8STJKvE6z8l5OGBKOfmkanZtytjErW793vRSO7vNp9yENO7yStJS4qU559+/BPw1WHA8x6XS0sK5xgK62f2be8i2qm6kjTONWoaGOMGb6+pU5xUtBdrJPnf7rfbC7GU2NzVBJ4Ks7d7AZTY2tSaBlIDhug2Dvt4rOa9tbiyLnYeNNWk13DunqB7Ksx0Wf/h3iGupPZ/UHTuvaLb93qFoMVReDLNE6iOc48EhfyRWHJI7wupmsB3I4rqsfXjck/muAKtnYdvAJP5VvBLhdVn8wudXVicK3gmuwreCZqmttAN4pUbVwbTuXJcL2nJCQwmOdKaGFNSRzUlglJTSEEzvbvago4ZzR81WWDkCO+fK3ivHiV6T/E3DuLKT75Wl7TrALoIJ4aELzUrXHxh5PpzRKs8NslzolB4GM4lavDOAUb1Z8aeHGdTtJgezTT8xV5hezdDe2TxUFGsrTDVyQsLq115zmf4Jw/Z+i24aBCusPRYwQ0BV1HEiO8C7kCZ9FPhsR+ljhzd+Sl1pxcU6tlX7bw/xqFRnFjo6xLfWFOypA7xHvwSfGEWTlTY8s7HYosxNMTYnTdcfVeul68s2Vsst2gWEWa4vbwLTdpPKDHVenha1ySOfySMxAmCkc/kq7aGFe8gtMJdFXTXpXVFWYR7miH+aLL0wKD1xIKEDylDigCWsC5D5yuQAuHdZTNehcO+CWqcaoUeSugJjylaEBl/4hMP8tmaJLXXsDAIIJ6x5XXkhXum19ntr0303GA4Rxg7jdeLY7AupvexwILHFp99LrTNY+TNCsMGVp8DWzNBWXWiwLcrG8dUvJ8PwfauMO8KxoY0NN1n2YxjPmPgkftumR8hI6rD82ur9Sf62WD2o0y0WTH7RcWEkwab4d0JhYhu2hPdZB5K42ViXVM7XH/7BHjlgfQJXFn1pnyTXxpKm2mZZe6A3XieCqMT2uLjkot5SVjsSHl5Y+QQYPgj8FsTO6cxDdw1P4VzMk9sdb1q+m62I3PUpVniHhr6Tjxk5mz5O81qyVS7JwpYGA35+CtpuiXqdZ5T3JqcSm6qiNLZQ9Svk10RTVFUpB1nBBU2jXa4SDKmY9C08KGGW6KbMDoghErlFKRAUVQvDwZsrVj0FjqRc0EWhFYJndEpQ+Ji7epGv4JuQJS2Ezc25WT7aYBgDagF3OyuPHuOgnyWsy80DtnAfGpOZN9Wng4XE8t3ilRPrxfF4cNdb5TCuyIaI0hDuw5a8teDElpBHyuG4oxrbQjWuyKzmZt5/qqqsEkkZjuG5K3CS0gthx3ggAeCsBh5upWU43Jfvh/iX6pDgSOJWx7HNaHw8XtEoGlhZBc7RFbNrDOC0GZidynWrpWMTN9NJ2g7Lsqvzt7roB5FC7L2C5jgSRbqtZRcH02mYMR5KmrY9zKhY+x1B3OadCFNrWZiwnLlHMI0QqSpisxb1Ctn12DV7B/5t+xVY9xl5Z7iUlOkALsIBUDiwhwaMzouAJjXTjbkVC83hacYnBc5NBSlwCAa4oavSdq1EylyoBtJ9oOq5c5nmuQQBwcQQF2CqEd0oumdyb8GHzxQrh+Zc5xKc9oSQgFanZU3KYT2C10Bne0PZ74pz0yA8/M02DuBncfwszj9j1aLWue2JJAuDpGsL0pzeCr+0OE+Jh3je3vjq3XzEjxU2HNX483aVPRIm6HcITWuUWNZR+0cQMkBQs2swQBFoUFV1roN2GBRIdrY4LtBlECUTicI6qxlUu74kxuidFkcBhsrmuJAaNSStNS7Q0m90Pk6aIsOat+jsJTMAb0LTwr31MjQS5zoA5n6K22RXa57XDSQVtNi7Py/6j2jORa12g8+avxzvpPk1M+xuxdmNw9JtNtzq4/qcdSfp0CpdrYDI/u/KbjlxC07So8dhw9hB8Dz92XRc9nHJNXvaxj2JoYrmvst4EgBw5a+RVeacHgsrmz6voctXNMKV7EwtSNxckXQkQEVN4S4nSZ0UPRPrMlqUNNqAU0BNwlQgQU+o48EwkAStTWvSuqBt3aIk7eQhDGf1OIa3ifshcTtljARTaOGY3cfwq3H7RLrbtw/Kpa2KgF5Nhp9yujOJlNZzaFLJUezQTI6G4HqhYukxmO+I9x8ugTWvXLuT9XjfN9JHO4oCtiXGzQGjidSinvTJ5JT0d9i9k7Ia8Z6taGz8rbE9TwWipGi0BtNoaweJJ5neslLtBYLRbGwzYlziTuvZK1csk5I1vYrABz3ucDkZEDcXGSAeVl6Gwz798lm+ztHJTaIgu75/4+kLQNmJXVjPI5fJe1Pm/b7JKxmGzzt79wkYoXvsXb3Wb04q2fCUHuLjBkTYb4GpnquxGHY+zhfjoR75qSnDBA+iVrpiRM6A/UpGpMVsx7fl7w5a+X4VaVsWU+Z+3lwQuJwTH2cIcdHCxP58VnrH8OaZYc0qIx2BdTdDrjc4aH8HklUcV1VgqSREId7k9jxvSWQOIdHFFtda6qNr7QazLeDKNw1TM0EGUJ7Pg11VpEBUG1MVL3AaNt5C/qrap3Wl3AErKPfJcTvP7la+P+lTqlcAFz3QNJ+sc1R7ZxYc0hkgC0cwBqfFdtaoXwwfK255k/hA455gzun36K9X0JFIa0PBG436aFWKqcOJkqzovERvAXPtXj/9PzpzXjiPFDVHojAbO+IczrMGp48h+Us56u3hwxDQYzCTuFz6La9ndm5nszakiBw6rNUMLTY8OYwWvJJP1Nlv+x+IZVIc13eZq063tPMc+i2z48z3UXVa0sgiNwAHQKxpPnoAh3jf75KXDGDHitWd+Jni0byf8oT4kvtoLDoP3TsXiYzRuGUdTc/ZVbMRAJBubdOaQzPSzfVEwTbf0H5/CWhXzGePo0KidijlP9x9BuRGFxUT709+qOKufS9fWG7Qa/YJoNsx1Oiq21y5wHG58f2RbMRmdybYDjw98kk/ng59Nr2lrhIOo4HiOBvK5Rl0Rv4+/H1SoQwTGynMYAos11Oxy526u2jsZtW5JncptjUCxuUmUaKwJUDn5XwN90J5O9P2pUim+OX1Cy7hPiY84Wn2lBpP6D6hZymL+Z+wW3j+CgsVRBOiz+2Tla/iTH/tb6LVvpysh2mscv8AdPk391eit9VVYYWRFM94lMpC0IirQyuImY0MRMwdN1jK5tX2vM5IYWF72tbq4wFrqdAMYGDQCPyVWdm8Hmc6oRYd1vU3J8o81evZNuK28efXRq+1bVYSDzTMLhajHtqMc5jhcOFirvDYMOcAdNPDetA0hwygW+UdPcLT8ph2xO2TXgUcSAx+6pox3X9B9Omi2zajQ3PNonw3LzitshpzkDTToB+58k/sw+qH/Dzu+CO8WE2toBOgm8DgiwrGrxtfXxJ6m6CfU7np5/tK55zDqfpf7hRV3aDiSffkhZpNxyHqpha3h79UM0yffX31Upff1+yALpVok79B1KLwz49795VXhjM+H3/ZGCoNN3uyXCq1a/NaYFj0Av78FyrzVhhv3nD0XJ8T+WafTtrdMYDMAEypGiTxKuMHgsvedquaTp2kwGzwBLtVJisKwOa6ES93BJUZmarT0FtbDsFJ5A/pJWOw4sffNabb2IAotH6jB6D9yFmafy9THotMQQ06LJ9o8OXOLh/RBPR0CfQeq1zh7+iqaDA+o8kSCS2NxGhCrU7BfjIDSyNxbSXMcL52M00DoyR1lvqrXEdlnh00XBzf0uOVzeU7whzsyqxzQ5hFyLEEGeh3fdc9zZVzTT7LwmSi0b4kxvJuVLSZx1iPHemtqxolpunzXTOSSEMw4HRWWAAHePNB0mbugVg5sMAGpICZiKDO7ffeClwlAMDyOMfn7qRxAj+37JcMJYOsn1KQIXx4D11+p9EJWf3jyACma6R1M+V/sq99SzjxJSNIxxOnXkpC+x8B/hV+efT36onPYc7+ZRwDab4gDX35qZz8rfoNCTE/ZVz8SGxxiPUqeu+zb6ekjT0TJI3FWzu/T5QuQe4N4kNjfB19JXIUtsFhA28XRbnp3Rc1iwYouiIpi0FOaFz0Bi+1TyHBu4EerkBRbYe9Ub2uH+o4cAxyHpDueC2z/ip8R1TlaXHcCfIKs2UIE7yp9sYiGBo1eQPAXP2HipNnshoQWhjJKhxDB6yiZsh6vFFhRA5qJwtM2XOZIsrBjA1s8AnI0TUG3lGF4ztA0AnxQ+GbZOa6MziJmAPZTCZ1TuuPEx4KVleGEDjHnIQT3WA6FR5zcD37lIDc5yxwBPDVVlZ3dA4z6ompVgHoPpKCru9AkaHMj2lVrjoOiPY7uynCRPMv6EctyKe76oWme8T/AHOUrZ3xM9eKDT4QS+f0ifF3dHpK5PwMZSd5M+AsPuVyAvpT2lR5VK1iwZHBcUoauCCZbtng4aK0iAAxwOpk90jjqVT0XywdEvbTblN7zQzGGWJAluY63HDRB7PeHMaJkRqtM1U+ANpPzPYOBf8A8VbYRtgqnaTQ17I4uJ8cqtMM+wVQtDQ1QYoWUgqKM94wmU+kwb5kcERScSYJ3rqVDLJTKj4vyTaLym/LTc7eZVYzEFriBBFrG411uiaLw5kTu/dV+Lw+jmnXXqgxpxDHEggtIEyCCPAHTzULcSwG73jQ/IDr/wCfNAiq4EnWfFK55e2IEiLi2iXTH16zD8r7787C2PKT6IHG5wCYkaSLjz3dCg3SLb/3ROFrOzWJ5hIIKdTSVe4GjnbHIn7pW4WmQS5jZ5S2+/5YTKrgxpyS3uuaRMi4tG/eqJDSAgefmZUjmw2d9uVyd6hwrphFBgloBvrfS3HxhKGJYIaANwAXJryTHNcgNEAnNCh+MEBtbbVOgBnMuOjRqfwFgyW2ZZbtP2jDA6lRMvNnOFwzjf8AUqHanaarUBAORnBupHN2vks++sNyjWv4vOP6GrM4q32I/uAdR6qkxFSUVsSv8w4OB84R47/2Xr4l23iz8drTAaGwD/dqZ9PJWeGqWCE2jgfitcD81yDwOoVfsTGOILHfM2RzsYuui+qxrRurKywWGhgedTcdNyqsBhjUe1g0NyeAFytJWsQ2I3eAVZPMC4mwCq8XU3I3aFaCqio+Si1Q7DPOa53Igv8Ayq2nUui2PRKBDHyLWISl4iPVRTqkrVhoAmENXXwXMMOBCie8ElOZrdI1ocSYgnX3qm4ypLC7cYH0Q9oXYw9xh4vHoD+QmD8O63irDDHvF27QepP1QbIDN826Kyod1onx39bpQyF3eHX78FyaD3h75rkwYcXUeclN7KRNhnvJ4Bws08JCx2Jpvzlz3FxvLnXJIMa71fY4iFnNtYzLDnPc4kWBMhosCL7huH9xXn/q6aXEyAxFQ5jO5CVKvBRV8Vm08ShnPVzKbqJ6lZP2ViMtTqPf1QBelw85hFzOgubq8zjO669CwwzMDvcjVVeL2flrNeNHGHdePim7Lx2TW7Se8OB3EeSuqmV7JaQ4HeNx+xXTOWFYN2S4U5ed9vAcPH6J2KxgmRxKq/5oZcpO6D1G/wCqGqVtyOnEuLxGYoUu9+SaXJ7Gz6lI0lDii8xOiiayB4J/G+iCOdVgKA1DqmOdKT/CAlYD4/lPoPBN1CHEWUYddBrWuIE8V2N+SkOOb0A/KGe85QCeCdtG3wujv+KYWeGMnlYnf06/sj88t8ELs2mQwE6kT9h6Ix8cIPHinDQt+Yrkxp1K5IMjjtqCCeG9UtLY+KxLyWUXGAD3u6A105T3o1g+S3PZ3su6i8PrML3icsFvw2f3STJPOLcFrMDgsgcScz3uL3uiJcQAI4ANDWjk0Llxjg8m/wBPM8L/AA9xTvndTZ1cXHyA+6u8H/DNljUrvceDGho9ZK3eQynsfC04ytZvD9hsEyP9LOf73Od6TCt8PgqNKAykxn/SwD7I7Oo3skpE8x7T7M/l65c0f6VQlzY0B1czqN3IqrzuYczDYx0PIheodqcG1+EqiPlaXjkWd77EeK8pw1WDGonRVKvN6snDUpHOuom1JUoElWo5gRDTA8kjGQmO1TJNnlMe5MuE2eSAeApHNIjzS0W8vX9kryZvuRAZTfJMqJ+qmZEXUJjNyRQlzcERjGF9XDMG/PPIDKT6INuq0WysMHTUOrWFrfEiY8gnAsKHIWJA8k/FNi++CfwpcLAA8T9h90JjK4NunoqpoIgDmUq7LdoBneuSDVJwXLliyKvK/wCJOPqse0Mq1Gjg17gPIFcuQnXwP2D2jWcXh1WoQBYF7iBppdX78dV/mGD4r4LhIzug+Erlym/SnxtNr/8A56n/AG3/AOwrxfD/ADe+BXLk41yNp/f8o6luXLlpF1NV3qNuqRcnSPcmN1XLkAV+PskqLlyYN3e+CFPzDouXJUkm8rU7M+Rn/SFy5VDH/wBHg37qs/qPT8JFyoxFL5z0P+1cuXJB/9k=",
+      "bookPrice": "Consigliere and right-hand man to Tony Soprano",
+      "id": 6
+    },
+    {
+      "bookName": "Paulie Gualtieri",
+      "bookAuthor": "Played by Tony Sirico ",
+      "bookImage": "https://c.tenor.com/FdAOg7UvaM0AAAAM/aye-raise-eyebrow.gif",
+      "bookPrice": "One of the chief henchmen",
+      "id": 7
+    },
+    {
+      "bookName": "Johnny \"Sack\" Sacramoni 2",
+      "bookAuthor": "Played by Vince Curatola",
+      "bookImage": "https://media3.giphy.com/media/pS6QTcljO4ms0/200.gif",
+      "bookPrice": "The urbane boss of the New York family",
+      "id": 8
+    },
+    {
+      "bookName": "Hesh Rabkin ",
+      "bookAuthor": "Played by Jerry Adler",
+      "bookImage": "https://www.hbo.com/content/dam/hbodata/series/the-sopranos/character/hesh-rabkin-1920.jpg/_jcr_content/renditions/cq5dam.web.768.432.jpeg",
+      "bookPrice": "Important part of Tony's crew",
+      "id": 9
+    },
+    {
+      "bookName": "Bobby \"Bacala\" Baccalieri",
+      "bookAuthor": "Played by Steven Schirripa ",
+      "bookImage": "https://www.hbo.com/content/dam/hbodata/series/the-sopranos/character/bobby-bacala-1920.jpg/_jcr_content/renditions/cq5dam.web.768.432.jpeg",
+      "bookPrice": "Stalwart soldier in the Soprano organization",
+      "id": 10
+    },
+    {
+      "bookName": "Furio Giunta",
+      "bookAuthor": "Played by Federico Castelluccio",
+      "bookImage": "https://thumbs.gfycat.com/DeadPaleFrenchbulldog-size_restricted.gif",
+      "bookPrice": "A real son of Italy, this Naples native was working for mob boss Zio Vittorio when Tony spotted his talent and lured him to New Jersey.",
+      "id": 11
+    },
+    {
+      "bookName": "Patsy Parisi",
+      "bookAuthor": "Played by Dan Grimaldi",
+      "bookImage": "https://www.hbo.com/content/dam/hbodata/series/the-sopranos/character/patsy-parisi-1920.jpg/_jcr_content/renditions/cq5dam.web.768.432.jpeg",
+      "bookPrice": "A soldier in Junior's crew who later joined Paulie Gualtieri's",
+      "id": 12
+    }
+  ]
+}
